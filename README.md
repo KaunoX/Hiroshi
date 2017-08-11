@@ -1,3 +1,3 @@
-# Hiroshi
-Discord Bot
-THIS IS JUST A TEST
+#Hiroshi
+Hi
+How's Life
